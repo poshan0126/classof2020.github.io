@@ -16,5 +16,5 @@ layout: profile
 ---
 
 Poshan says ' I am born in nepal
-dont mess with me '. Also the,then CEO of The Poshan & Co. 
+dont mess with me '
 
